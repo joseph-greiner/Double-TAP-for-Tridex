@@ -22,4 +22,6 @@ Depending on your setup 1 of the following (not one of each but one for which ty
 |STL|4|Tap_Upper_Wired_r2.stl|For Self Wired Optical Switch|
 
 If you are cutting your own MGN9 Rail
+|Category|Qty|Description|Notes|
+|:----|:----|:----|:----|
 |STL|1|Printed_Cut_Guide.stl|50mm Rail cut guide|
