@@ -7,8 +7,8 @@ Both toolheads can move up to trigger an optical switch however due to curent kl
 
 Please see the original Voron-Tap Repo [Here](https://github.com/VoronDesign/Voron-Tap)
 
-You only need to download the 2 parts in this repo to get to Double-Tap which replace a part on the original tap ([a]Tap_Center_r4)
+You only need to download the 2 parts in this repo to get to Double-Tap which replace a part on the original tap ([a]Tap_Center_r6)
 
-[a]T0_Center_r4.stl (the left toolhead) and [a]T1_Center_r4.stl (the right toolhead)
+[a]T0_Center_r6.stl (the left toolhead) and [a]T1_Center_r6.stl (the right toolhead)
 
 All other assemblies and parts are as the original version of tap so please follow the voron tap manual for full instructions.
